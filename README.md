@@ -24,3 +24,6 @@ cp .env.sample .env
 npm install
 npm run dev
 ```
+## Asset IDs
+
+[use these to cycle different asset ids]{https://explorer.perawallet.app/}
