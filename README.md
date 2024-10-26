@@ -26,4 +26,4 @@ npm run dev
 ```
 ## Asset IDs
 
-[use these to cycle different asset ids]{https://explorer.perawallet.app/}
+[use these to cycle different asset ids](https://explorer.perawallet.app/)
