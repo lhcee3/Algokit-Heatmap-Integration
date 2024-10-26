@@ -1,4 +1,6 @@
 # Integration of a Fully Functional Heatmap Feature into the Lora Algokit Website
+![Screenshot 2024-10-26 232458](https://github.com/user-attachments/assets/86980687-8510-47a6-9fb9-465da02ef4a2)
+
 
 ## Project Purpose
 
